@@ -1,1 +1,1 @@
-Simulación de movimiento aleatorio o browniano de partículas, no se simula un medio, pero si se puede suponer un coeficiente de difusión.
+Simulación de movimiento aleatorio o browniano de partículas, no se simula un medio, pero si se puede suponer un coeficiente de difusión, se implementa ruido gaussiano para la simulación del movimiento aleatorio.
